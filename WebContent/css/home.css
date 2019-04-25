@@ -1,0 +1,9 @@
+#banner-slideshow { 
+    position: relative; 
+    height:50vh;
+    width:100vw;
+}
+
+#banner-slideshow > div { 
+	position:absolute;
+}

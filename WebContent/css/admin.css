@@ -1,0 +1,120 @@
+.welcome{
+    float: left;
+    background-color: black;
+    width: 100%;
+    padding-left: 20px;
+}
+.logout{
+    float: right;
+}
+.logout{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 5px;
+    font-weight: bold;
+}
+.logout:hover{
+    color:#2fdab8;
+}
+.welcome p{
+    color: white;
+    padding: 15px 10px;
+}
+.hello{
+    float: left;
+}
+.content{
+    padding: 20px;
+}
+.contentHead{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 10px;
+}
+.addTable{
+	
+	width:600px;
+	margin:2px;
+	align :center;	
+}
+
+th{
+	background: Blue;
+	color:white;
+	
+	
+}
+th,td, tr{
+	
+	border: 1px solid black;
+	
+	
+}
+th, tr, td, table{
+	
+	text-align:center;
+}
+td{
+	background-color:black;
+	color:white;
+	font-size:bold;
+}
+
+.grid{
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr 1fr;
+	padding:10px;
+	background-color:white;
+	
+	margin: 0 auto;
+    width:700px;
+}
+.men, .women, .girl,.boy{
+	padding:10px;
+	width:150px;
+	
+}
+.button{
+	background-color:black;
+	color:white;
+	padding:10px;
+	border-radius:12px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;   
+}
+.button:hover {
+    background-color: blue;
+    color: white;
+}
+th{
+	height:50px;
+	border-color:white 2px;
+}
+.contentForm{
+	text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+    width:700px;
+    height:220px;
+   
+    border-radius:25px;
+    
+    
+}
+
+.option1{
+	width:300px;
+	padding:5px;
+	color:black;
+}
+form{
+    
+}
+table{
+	
+}

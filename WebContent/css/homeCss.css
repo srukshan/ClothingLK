@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+
+.insertForm{
+	display: none;
+	
+}
+.showForm{
+	display: none;
+}
+
+.delForm{
+	display: none;
+}
